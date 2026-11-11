@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tokctl"
+version = "0.1.0"
+description = "Measure where Claude Code tokens go, then cut the context that is re-read on every turn."
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.9"
+dependencies = []
+
+[project.scripts]
+tokctl = "tokctl.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["tokctl*"]

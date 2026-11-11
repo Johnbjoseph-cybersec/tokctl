@@ -1,0 +1,900 @@
+2026-11-11T10:00:00.825Z INFO request GET /health 200 2ms
+2026-11-11T10:00:01.837Z INFO request GET /health 200 2ms
+2026-11-11T10:00:02.757Z INFO worker heartbeat ok
+2026-11-11T10:00:03.204Z INFO request GET /health 200 2ms
+2026-11-11T10:00:04.364Z ERROR connection reset by peer
+2026-11-11T10:00:05.028Z INFO request GET /health 200 2ms
+2026-11-11T10:00:06.483Z INFO request GET /health 200 2ms
+2026-11-11T10:00:07.198Z INFO request GET /health 200 2ms
+2026-11-11T10:00:08.457Z INFO worker heartbeat ok
+2026-11-11T10:00:09.977Z INFO worker heartbeat ok
+2026-11-11T10:00:10.082Z INFO worker heartbeat ok
+2026-11-11T10:00:11.104Z INFO request GET /health 200 2ms
+2026-11-11T10:00:12.481Z INFO request GET /health 200 2ms
+2026-11-11T10:00:13.345Z INFO request GET /health 200 2ms
+2026-11-11T10:00:14.494Z INFO request GET /health 200 2ms
+2026-11-11T10:00:15.490Z INFO request GET /health 200 2ms
+2026-11-11T10:00:16.818Z INFO worker heartbeat ok
+2026-11-11T10:00:17.854Z INFO request GET /health 200 2ms
+2026-11-11T10:00:18.931Z INFO request GET /health 200 2ms
+2026-11-11T10:00:19.801Z INFO worker heartbeat ok
+2026-11-11T10:00:20.489Z INFO request GET /health 200 2ms
+2026-11-11T10:00:21.444Z INFO request GET /health 200 2ms
+2026-11-11T10:00:22.088Z INFO worker heartbeat ok
+2026-11-11T10:00:23.474Z INFO worker heartbeat ok
+2026-11-11T10:00:24.761Z INFO worker heartbeat ok
+2026-11-11T10:00:25.742Z INFO request GET /health 200 2ms
+2026-11-11T10:00:26.174Z INFO request GET /health 200 2ms
+2026-11-11T10:00:27.028Z INFO request GET /health 200 2ms
+2026-11-11T10:00:28.604Z INFO request GET /health 200 2ms
+2026-11-11T10:00:29.825Z INFO worker heartbeat ok
+2026-11-11T10:00:30.626Z INFO request GET /health 200 2ms
+2026-11-11T10:00:31.673Z WARN slow query 1203ms SELECT * FROM events
+2026-11-11T10:00:32.159Z INFO worker heartbeat ok
+2026-11-11T10:00:33.021Z INFO request GET /health 200 2ms
+2026-11-11T10:00:34.818Z INFO request GET /health 200 2ms
+2026-11-11T10:00:35.539Z INFO request GET /health 200 2ms
+2026-11-11T10:00:36.444Z INFO request GET /health 200 2ms
+2026-11-11T10:00:37.845Z INFO request GET /health 200 2ms
+2026-11-11T10:00:38.028Z INFO request GET /health 200 2ms
+2026-11-11T10:00:39.217Z INFO request GET /health 200 2ms
+2026-11-11T10:00:40.513Z INFO request GET /health 200 2ms
+2026-11-11T10:00:41.782Z INFO request GET /health 200 2ms
+2026-11-11T10:00:42.265Z INFO worker heartbeat ok
+2026-11-11T10:00:43.854Z INFO worker heartbeat ok
+2026-11-11T10:00:44.062Z INFO request GET /health 200 2ms
+2026-11-11T10:00:45.919Z INFO worker heartbeat ok
+2026-11-11T10:00:46.678Z INFO worker heartbeat ok
+2026-11-11T10:00:47.846Z INFO worker heartbeat ok
+2026-11-11T10:00:48.544Z INFO request GET /health 200 2ms
+2026-11-11T10:00:49.536Z INFO request GET /health 200 2ms
+2026-11-11T10:00:50.893Z INFO request GET /health 200 2ms
+2026-11-11T10:00:51.795Z INFO worker heartbeat ok
+2026-11-11T10:00:52.623Z INFO request GET /health 200 2ms
+2026-11-11T10:00:53.794Z INFO request GET /health 200 2ms
+2026-11-11T10:00:54.176Z INFO request GET /health 200 2ms
+2026-11-11T10:00:55.484Z INFO request GET /health 200 2ms
+2026-11-11T10:00:56.569Z INFO request GET /health 200 2ms
+2026-11-11T10:00:57.333Z INFO request GET /health 200 2ms
+2026-11-11T10:00:58.803Z WARN slow query 1203ms SELECT * FROM events
+2026-11-11T10:00:59.904Z INFO request GET /health 200 2ms
+2026-11-11T10:01:00.254Z INFO request GET /health 200 2ms
+2026-11-11T10:01:01.283Z INFO request GET /health 200 2ms
+2026-11-11T10:01:02.790Z INFO request GET /health 200 2ms
+2026-11-11T10:01:03.519Z INFO request GET /health 200 2ms
+2026-11-11T10:01:04.575Z INFO worker heartbeat ok
+2026-11-11T10:01:05.778Z INFO request GET /health 200 2ms
+2026-11-11T10:01:06.453Z INFO request GET /health 200 2ms
+2026-11-11T10:01:07.627Z INFO worker heartbeat ok
+2026-11-11T10:01:08.709Z INFO request GET /health 200 2ms
+2026-11-11T10:01:09.463Z INFO request GET /health 200 2ms
+2026-11-11T10:01:10.519Z WARN slow query 1203ms SELECT * FROM events
+2026-11-11T10:01:11.715Z INFO request GET /health 200 2ms
+2026-11-11T10:01:12.944Z INFO request GET /health 200 2ms
+2026-11-11T10:01:13.860Z INFO request GET /health 200 2ms
+2026-11-11T10:01:14.140Z INFO worker heartbeat ok
+2026-11-11T10:01:15.124Z INFO worker heartbeat ok
+2026-11-11T10:01:16.452Z INFO worker heartbeat ok
+2026-11-11T10:01:17.074Z INFO worker heartbeat ok
+2026-11-11T10:01:18.438Z INFO request GET /health 200 2ms
+2026-11-11T10:01:19.217Z INFO request GET /health 200 2ms
+2026-11-11T10:01:20.802Z INFO request GET /health 200 2ms
+2026-11-11T10:01:21.918Z INFO request GET /health 200 2ms
+2026-11-11T10:01:22.962Z INFO request GET /health 200 2ms
+2026-11-11T10:01:23.146Z INFO worker heartbeat ok
+2026-11-11T10:01:24.904Z INFO request GET /health 200 2ms
+2026-11-11T10:01:25.990Z INFO request GET /health 200 2ms
+2026-11-11T10:01:26.224Z INFO worker heartbeat ok
+2026-11-11T10:01:27.407Z INFO request GET /health 200 2ms
+2026-11-11T10:01:28.166Z ERROR connection reset by peer
+2026-11-11T10:01:29.165Z INFO request GET /health 200 2ms
+2026-11-11T10:01:30.527Z INFO worker heartbeat ok
+2026-11-11T10:01:31.347Z INFO worker heartbeat ok
+2026-11-11T10:01:32.200Z INFO worker heartbeat ok
+2026-11-11T10:01:33.326Z INFO worker heartbeat ok
+2026-11-11T10:01:34.739Z INFO request GET /health 200 2ms
+2026-11-11T10:01:35.019Z INFO worker heartbeat ok
+2026-11-11T10:01:36.567Z INFO worker heartbeat ok
+2026-11-11T10:01:37.451Z INFO worker heartbeat ok
+2026-11-11T10:01:38.393Z INFO request GET /health 200 2ms
+2026-11-11T10:01:39.529Z INFO worker heartbeat ok
+2026-11-11T10:01:40.524Z INFO request GET /health 200 2ms
+2026-11-11T10:01:41.115Z INFO request GET /health 200 2ms
+2026-11-11T10:01:42.995Z INFO request GET /health 200 2ms
+2026-11-11T10:01:43.086Z INFO request GET /health 200 2ms
+2026-11-11T10:01:44.278Z INFO request GET /health 200 2ms
+2026-11-11T10:01:45.927Z INFO request GET /health 200 2ms
+2026-11-11T10:01:46.276Z INFO request GET /health 200 2ms
+2026-11-11T10:01:47.839Z INFO request GET /health 200 2ms
+2026-11-11T10:01:48.869Z INFO worker heartbeat ok
+2026-11-11T10:01:49.415Z INFO request GET /health 200 2ms
+2026-11-11T10:01:50.549Z INFO request GET /health 200 2ms
+2026-11-11T10:01:51.717Z ERROR connection reset by peer
+2026-11-11T10:01:52.091Z INFO worker heartbeat ok
+2026-11-11T10:01:53.058Z INFO request GET /health 200 2ms
+2026-11-11T10:01:54.435Z INFO request GET /health 200 2ms
+2026-11-11T10:01:55.275Z INFO request GET /health 200 2ms
+2026-11-11T10:01:56.649Z INFO request GET /health 200 2ms
+2026-11-11T10:01:57.820Z INFO request GET /health 200 2ms
+2026-11-11T10:01:58.085Z INFO request GET /health 200 2ms
+2026-11-11T10:01:59.068Z INFO request GET /health 200 2ms
+2026-11-11T10:02:00.883Z INFO request GET /health 200 2ms
+2026-11-11T10:02:01.464Z INFO request GET /health 200 2ms
+2026-11-11T10:02:02.347Z INFO request GET /health 200 2ms
+2026-11-11T10:02:03.948Z INFO worker heartbeat ok
+2026-11-11T10:02:04.636Z INFO request GET /health 200 2ms
+2026-11-11T10:02:05.044Z INFO request GET /health 200 2ms
+2026-11-11T10:02:06.960Z INFO request GET /health 200 2ms
+2026-11-11T10:02:07.992Z INFO request GET /health 200 2ms
+2026-11-11T10:02:08.268Z INFO request GET /health 200 2ms
+2026-11-11T10:02:09.185Z INFO request GET /health 200 2ms
+2026-11-11T10:02:10.954Z INFO request GET /health 200 2ms
+2026-11-11T10:02:11.643Z INFO request GET /health 200 2ms
+2026-11-11T10:02:12.543Z INFO request GET /health 200 2ms
+2026-11-11T10:02:13.296Z INFO request GET /health 200 2ms
+2026-11-11T10:02:14.512Z INFO worker heartbeat ok
+2026-11-11T10:02:15.277Z INFO request GET /health 200 2ms
+2026-11-11T10:02:16.822Z INFO worker heartbeat ok
+2026-11-11T10:02:17.256Z INFO request GET /health 200 2ms
+2026-11-11T10:02:18.015Z INFO request GET /health 200 2ms
+2026-11-11T10:02:19.750Z INFO request GET /health 200 2ms
+2026-11-11T10:02:20.526Z INFO request GET /health 200 2ms
+2026-11-11T10:02:21.251Z WARN slow query 1203ms SELECT * FROM events
+2026-11-11T10:02:22.108Z INFO worker heartbeat ok
+2026-11-11T10:02:23.672Z INFO worker heartbeat ok
+2026-11-11T10:02:24.559Z ERROR connection reset by peer
+2026-11-11T10:02:25.993Z INFO worker heartbeat ok
+2026-11-11T10:02:26.704Z INFO request GET /health 200 2ms
+2026-11-11T10:02:27.235Z INFO request GET /health 200 2ms
+2026-11-11T10:02:28.203Z INFO worker heartbeat ok
+2026-11-11T10:02:29.414Z INFO request GET /health 200 2ms
+2026-11-11T10:02:30.055Z INFO worker heartbeat ok
+2026-11-11T10:02:31.014Z INFO request GET /health 200 2ms
+2026-11-11T10:02:32.640Z INFO request GET /health 200 2ms
+2026-11-11T10:02:33.441Z INFO request GET /health 200 2ms
+2026-11-11T10:02:34.056Z INFO request GET /health 200 2ms
+2026-11-11T10:02:35.681Z INFO request GET /health 200 2ms
+2026-11-11T10:02:36.891Z INFO worker heartbeat ok
+2026-11-11T10:02:37.613Z INFO request GET /health 200 2ms
+2026-11-11T10:02:38.709Z INFO request GET /health 200 2ms
+2026-11-11T10:02:39.046Z INFO request GET /health 200 2ms
+2026-11-11T10:02:40.189Z INFO worker heartbeat ok
+2026-11-11T10:02:41.275Z INFO request GET /health 200 2ms
+2026-11-11T10:02:42.003Z INFO worker heartbeat ok
+2026-11-11T10:02:43.372Z INFO request GET /health 200 2ms
+2026-11-11T10:02:44.995Z INFO worker heartbeat ok
+2026-11-11T10:02:45.250Z INFO worker heartbeat ok
+2026-11-11T10:02:46.988Z INFO request GET /health 200 2ms
+2026-11-11T10:02:47.223Z INFO request GET /health 200 2ms
+2026-11-11T10:02:48.187Z INFO worker heartbeat ok
+2026-11-11T10:02:49.343Z INFO request GET /health 200 2ms
+2026-11-11T10:02:50.085Z INFO worker heartbeat ok
+2026-11-11T10:02:51.285Z WARN slow query 1203ms SELECT * FROM events
+2026-11-11T10:02:52.254Z INFO request GET /health 200 2ms
+2026-11-11T10:02:53.093Z INFO request GET /health 200 2ms
+2026-11-11T10:02:54.836Z INFO request GET /health 200 2ms
+2026-11-11T10:02:55.147Z INFO request GET /health 200 2ms
+2026-11-11T10:02:56.600Z INFO worker heartbeat ok
+2026-11-11T10:02:57.403Z INFO request GET /health 200 2ms
+2026-11-11T10:02:58.306Z INFO request GET /health 200 2ms
+2026-11-11T10:02:59.644Z INFO request GET /health 200 2ms
+2026-11-11T10:03:00.086Z INFO request GET /health 200 2ms
+2026-11-11T10:03:01.673Z INFO request GET /health 200 2ms
+2026-11-11T10:03:02.782Z INFO worker heartbeat ok
+2026-11-11T10:03:03.737Z INFO worker heartbeat ok
+2026-11-11T10:03:04.153Z ERROR connection reset by peer
+2026-11-11T10:03:05.741Z INFO request GET /health 200 2ms
+2026-11-11T10:03:06.044Z INFO request GET /health 200 2ms
+2026-11-11T10:03:07.751Z INFO worker heartbeat ok
+2026-11-11T10:03:08.931Z INFO request GET /health 200 2ms
+2026-11-11T10:03:09.846Z INFO request GET /health 200 2ms
+2026-11-11T10:03:10.087Z INFO request GET /health 200 2ms
+2026-11-11T10:03:11.042Z INFO request GET /health 200 2ms
+2026-11-11T10:03:12.652Z INFO request GET /health 200 2ms
+2026-11-11T10:03:13.982Z INFO worker heartbeat ok
+2026-11-11T10:03:14.385Z INFO request GET /health 200 2ms
+2026-11-11T10:03:15.571Z INFO worker heartbeat ok
+2026-11-11T10:03:16.642Z INFO request GET /health 200 2ms
+2026-11-11T10:03:17.641Z INFO request GET /health 200 2ms
+2026-11-11T10:03:18.501Z INFO request GET /health 200 2ms
+2026-11-11T10:03:19.003Z INFO request GET /health 200 2ms
+2026-11-11T10:03:20.816Z INFO worker heartbeat ok
+2026-11-11T10:03:21.766Z INFO request GET /health 200 2ms
+2026-11-11T10:03:22.675Z INFO request GET /health 200 2ms
+2026-11-11T10:03:23.763Z INFO request GET /health 200 2ms
+2026-11-11T10:03:24.258Z WARN slow query 1203ms SELECT * FROM events
+2026-11-11T10:03:25.866Z INFO request GET /health 200 2ms
+2026-11-11T10:03:26.240Z INFO request GET /health 200 2ms
+2026-11-11T10:03:27.236Z INFO request GET /health 200 2ms
+2026-11-11T10:03:28.505Z INFO worker heartbeat ok
+2026-11-11T10:03:29.078Z INFO worker heartbeat ok
+2026-11-11T10:03:30.932Z WARN slow query 1203ms SELECT * FROM events
+2026-11-11T10:03:31.785Z INFO request GET /health 200 2ms
+2026-11-11T10:03:32.631Z INFO request GET /health 200 2ms
+2026-11-11T10:03:33.079Z INFO request GET /health 200 2ms
+2026-11-11T10:03:34.339Z INFO request GET /health 200 2ms
+2026-11-11T10:03:35.667Z INFO request GET /health 200 2ms
+2026-11-11T10:03:36.636Z INFO request GET /health 200 2ms
+2026-11-11T10:03:37.012Z INFO request GET /health 200 2ms
+2026-11-11T10:03:38.062Z WARN slow query 1203ms SELECT * FROM events
+2026-11-11T10:03:39.275Z ERROR connection reset by peer
+2026-11-11T10:03:40.708Z INFO request GET /health 200 2ms
+2026-11-11T10:03:41.691Z INFO request GET /health 200 2ms
+2026-11-11T10:03:42.297Z ERROR connection reset by peer
+2026-11-11T10:03:43.475Z INFO request GET /health 200 2ms
+2026-11-11T10:03:44.477Z INFO worker heartbeat ok
+2026-11-11T10:03:45.915Z INFO request GET /health 200 2ms
+2026-11-11T10:03:46.319Z INFO request GET /health 200 2ms
+2026-11-11T10:03:47.958Z INFO request GET /health 200 2ms
+2026-11-11T10:03:48.017Z WARN slow query 1203ms SELECT * FROM events
+2026-11-11T10:03:49.469Z INFO request GET /health 200 2ms
+2026-11-11T10:03:50.839Z INFO request GET /health 200 2ms
+2026-11-11T10:03:51.275Z INFO worker heartbeat ok
+2026-11-11T10:03:52.214Z INFO worker heartbeat ok
+2026-11-11T10:03:53.076Z INFO request GET /health 200 2ms
+2026-11-11T10:03:54.145Z INFO request GET /health 200 2ms
+2026-11-11T10:03:55.975Z INFO request GET /health 200 2ms
+2026-11-11T10:03:56.135Z INFO worker heartbeat ok
+2026-11-11T10:03:57.908Z INFO request GET /health 200 2ms
+2026-11-11T10:03:58.720Z INFO request GET /health 200 2ms
+2026-11-11T10:03:59.236Z INFO worker heartbeat ok
+2026-11-11T10:04:00.919Z ERROR connection reset by peer
+2026-11-11T10:04:01.403Z ERROR connection reset by peer
+2026-11-11T10:04:02.162Z INFO request GET /health 200 2ms
+2026-11-11T10:04:03.972Z INFO request GET /health 200 2ms
+2026-11-11T10:04:04.697Z ERROR connection reset by peer
+2026-11-11T10:04:05.415Z INFO worker heartbeat ok
+2026-11-11T10:04:06.744Z INFO request GET /health 200 2ms
+2026-11-11T10:04:07.426Z INFO request GET /health 200 2ms
+2026-11-11T10:04:08.385Z INFO worker heartbeat ok
+2026-11-11T10:04:09.123Z INFO worker heartbeat ok
+2026-11-11T10:04:10.001Z INFO worker heartbeat ok
+2026-11-11T10:04:11.768Z INFO worker heartbeat ok
+2026-11-11T10:04:12.859Z INFO worker heartbeat ok
+2026-11-11T10:04:13.122Z INFO worker heartbeat ok
+2026-11-11T10:04:14.730Z INFO request GET /health 200 2ms
+2026-11-11T10:04:15.923Z INFO request GET /health 200 2ms
+2026-11-11T10:04:16.259Z INFO request GET /health 200 2ms
+2026-11-11T10:04:17.066Z INFO worker heartbeat ok
+2026-11-11T10:04:18.399Z INFO worker heartbeat ok
+2026-11-11T10:04:19.369Z INFO request GET /health 200 2ms
+2026-11-11T10:04:20.773Z INFO worker heartbeat ok
+2026-11-11T10:04:21.874Z INFO request GET /health 200 2ms
+2026-11-11T10:04:22.287Z INFO request GET /health 200 2ms
+2026-11-11T10:04:23.052Z INFO request GET /health 200 2ms
+2026-11-11T10:04:24.650Z INFO request GET /health 200 2ms
+2026-11-11T10:04:25.255Z INFO request GET /health 200 2ms
+2026-11-11T10:04:26.446Z INFO request GET /health 200 2ms
+2026-11-11T10:04:27.194Z INFO worker heartbeat ok
+2026-11-11T10:04:28.803Z INFO worker heartbeat ok
+2026-11-11T10:04:29.905Z INFO worker heartbeat ok
+2026-11-11T10:04:30.831Z INFO request GET /health 200 2ms
+2026-11-11T10:04:31.935Z INFO worker heartbeat ok
+2026-11-11T10:04:32.736Z INFO request GET /health 200 2ms
+2026-11-11T10:04:33.050Z INFO request GET /health 200 2ms
+2026-11-11T10:04:34.461Z INFO worker heartbeat ok
+2026-11-11T10:04:35.659Z INFO request GET /health 200 2ms
+2026-11-11T10:04:36.497Z INFO request GET /health 200 2ms
+2026-11-11T10:04:37.933Z INFO request GET /health 200 2ms
+2026-11-11T10:04:38.174Z INFO request GET /health 200 2ms
+2026-11-11T10:04:39.424Z WARN slow query 1203ms SELECT * FROM events
+2026-11-11T10:04:40.288Z INFO worker heartbeat ok
+2026-11-11T10:04:41.261Z INFO request GET /health 200 2ms
+2026-11-11T10:04:42.415Z INFO request GET /health 200 2ms
+2026-11-11T10:04:43.308Z INFO request GET /health 200 2ms
+2026-11-11T10:04:44.570Z WARN slow query 1203ms SELECT * FROM events
+2026-11-11T10:04:45.122Z INFO worker heartbeat ok
+2026-11-11T10:04:46.658Z INFO request GET /health 200 2ms
+2026-11-11T10:04:47.076Z INFO request GET /health 200 2ms
+2026-11-11T10:04:48.512Z INFO request GET /health 200 2ms
+2026-11-11T10:04:49.563Z ERROR connection reset by peer
+2026-11-11T10:04:50.463Z INFO request GET /health 200 2ms
+2026-11-11T10:04:51.777Z INFO worker heartbeat ok
+2026-11-11T10:04:52.437Z INFO worker heartbeat ok
+2026-11-11T10:04:53.560Z INFO request GET /health 200 2ms
+2026-11-11T10:04:54.249Z INFO request GET /health 200 2ms
+2026-11-11T10:04:55.178Z INFO request GET /health 200 2ms
+2026-11-11T10:04:56.569Z INFO worker heartbeat ok
+2026-11-11T10:04:57.326Z INFO request GET /health 200 2ms
+2026-11-11T10:04:58.377Z INFO request GET /health 200 2ms
+2026-11-11T10:04:59.828Z INFO request GET /health 200 2ms
+2026-11-11T10:05:00.908Z INFO request GET /health 200 2ms
+2026-11-11T10:05:01.767Z INFO request GET /health 200 2ms
+2026-11-11T10:05:02.392Z INFO worker heartbeat ok
+2026-11-11T10:05:03.763Z INFO worker heartbeat ok
+2026-11-11T10:05:04.385Z INFO request GET /health 200 2ms
+2026-11-11T10:05:05.346Z INFO request GET /health 200 2ms
+2026-11-11T10:05:06.510Z INFO request GET /health 200 2ms
+2026-11-11T10:05:07.588Z INFO request GET /health 200 2ms
+2026-11-11T10:05:08.128Z INFO worker heartbeat ok
+2026-11-11T10:05:09.094Z INFO request GET /health 200 2ms
+2026-11-11T10:05:10.918Z INFO request GET /health 200 2ms
+2026-11-11T10:05:11.393Z INFO request GET /health 200 2ms
+2026-11-11T10:05:12.661Z INFO worker heartbeat ok
+2026-11-11T10:05:13.442Z INFO worker heartbeat ok
+2026-11-11T10:05:14.869Z INFO request GET /health 200 2ms
+2026-11-11T10:05:15.130Z INFO request GET /health 200 2ms
+2026-11-11T10:05:16.435Z INFO request GET /health 200 2ms
+2026-11-11T10:05:17.991Z WARN slow query 1203ms SELECT * FROM events
+2026-11-11T10:05:18.000Z ERROR connection reset by peer
+2026-11-11T10:05:19.400Z INFO request GET /health 200 2ms
+2026-11-11T10:05:20.995Z INFO worker heartbeat ok
+2026-11-11T10:05:21.254Z INFO worker heartbeat ok
+2026-11-11T10:05:22.229Z INFO request GET /health 200 2ms
+2026-11-11T10:05:23.155Z INFO request GET /health 200 2ms
+2026-11-11T10:05:24.964Z INFO request GET /health 200 2ms
+2026-11-11T10:05:25.087Z INFO worker heartbeat ok
+2026-11-11T10:05:26.001Z INFO request GET /health 200 2ms
+2026-11-11T10:05:27.238Z INFO request GET /health 200 2ms
+2026-11-11T10:05:28.660Z INFO request GET /health 200 2ms
+2026-11-11T10:05:29.985Z INFO request GET /health 200 2ms
+2026-11-11T10:05:30.641Z INFO request GET /health 200 2ms
+2026-11-11T10:05:31.540Z INFO request GET /health 200 2ms
+2026-11-11T10:05:32.715Z INFO worker heartbeat ok
+2026-11-11T10:05:33.101Z INFO request GET /health 200 2ms
+2026-11-11T10:05:34.307Z INFO request GET /health 200 2ms
+2026-11-11T10:05:35.397Z INFO request GET /health 200 2ms
+2026-11-11T10:05:36.228Z INFO request GET /health 200 2ms
+2026-11-11T10:05:37.010Z INFO request GET /health 200 2ms
+2026-11-11T10:05:38.471Z INFO request GET /health 200 2ms
+2026-11-11T10:05:39.981Z INFO request GET /health 200 2ms
+2026-11-11T10:05:40.660Z INFO worker heartbeat ok
+2026-11-11T10:05:41.486Z INFO request GET /health 200 2ms
+2026-11-11T10:05:42.560Z INFO request GET /health 200 2ms
+2026-11-11T10:05:43.029Z INFO request GET /health 200 2ms
+2026-11-11T10:05:44.721Z INFO worker heartbeat ok
+2026-11-11T10:05:45.056Z INFO request GET /health 200 2ms
+2026-11-11T10:05:46.198Z INFO request GET /health 200 2ms
+2026-11-11T10:05:47.906Z ERROR connection reset by peer
+2026-11-11T10:05:48.083Z INFO worker heartbeat ok
+2026-11-11T10:05:49.233Z INFO request GET /health 200 2ms
+2026-11-11T10:05:50.947Z INFO worker heartbeat ok
+2026-11-11T10:05:51.232Z INFO worker heartbeat ok
+2026-11-11T10:05:52.034Z ERROR connection reset by peer
+2026-11-11T10:05:53.735Z INFO worker heartbeat ok
+2026-11-11T10:05:54.371Z INFO worker heartbeat ok
+2026-11-11T10:05:55.202Z INFO worker heartbeat ok
+2026-11-11T10:05:56.816Z INFO request GET /health 200 2ms
+2026-11-11T10:05:57.756Z INFO request GET /health 200 2ms
+2026-11-11T10:05:58.210Z INFO request GET /health 200 2ms
+2026-11-11T10:05:59.993Z ERROR connection reset by peer
+2026-11-11T10:06:00.319Z INFO request GET /health 200 2ms
+2026-11-11T10:06:01.236Z INFO request GET /health 200 2ms
+2026-11-11T10:06:02.226Z INFO worker heartbeat ok
+2026-11-11T10:06:03.778Z INFO request GET /health 200 2ms
+2026-11-11T10:06:04.111Z INFO request GET /health 200 2ms
+2026-11-11T10:06:05.624Z ERROR connection reset by peer
+2026-11-11T10:06:06.917Z INFO request GET /health 200 2ms
+2026-11-11T10:06:07.496Z INFO request GET /health 200 2ms
+2026-11-11T10:06:08.932Z INFO worker heartbeat ok
+2026-11-11T10:06:09.971Z INFO request GET /health 200 2ms
+2026-11-11T10:06:10.944Z INFO request GET /health 200 2ms
+2026-11-11T10:06:11.055Z INFO worker heartbeat ok
+2026-11-11T10:06:12.024Z INFO request GET /health 200 2ms
+2026-11-11T10:06:13.425Z INFO request GET /health 200 2ms
+2026-11-11T10:06:14.726Z INFO request GET /health 200 2ms
+2026-11-11T10:06:15.188Z INFO request GET /health 200 2ms
+2026-11-11T10:06:16.460Z INFO worker heartbeat ok
+2026-11-11T10:06:17.750Z INFO worker heartbeat ok
+2026-11-11T10:06:18.081Z INFO request GET /health 200 2ms
+2026-11-11T10:06:19.337Z INFO request GET /health 200 2ms
+2026-11-11T10:06:20.189Z INFO request GET /health 200 2ms
+2026-11-11T10:06:21.032Z INFO worker heartbeat ok
+2026-11-11T10:06:22.680Z INFO request GET /health 200 2ms
+2026-11-11T10:06:23.859Z INFO worker heartbeat ok
+2026-11-11T10:06:24.339Z INFO worker heartbeat ok
+2026-11-11T10:06:25.173Z INFO worker heartbeat ok
+2026-11-11T10:06:26.002Z INFO request GET /health 200 2ms
+2026-11-11T10:06:27.286Z INFO request GET /health 200 2ms
+2026-11-11T10:06:28.359Z INFO request GET /health 200 2ms
+2026-11-11T10:06:29.978Z INFO worker heartbeat ok
+2026-11-11T10:06:30.574Z INFO request GET /health 200 2ms
+2026-11-11T10:06:31.389Z INFO request GET /health 200 2ms
+2026-11-11T10:06:32.787Z INFO worker heartbeat ok
+2026-11-11T10:06:33.841Z INFO request GET /health 200 2ms
+2026-11-11T10:06:34.089Z INFO worker heartbeat ok
+2026-11-11T10:06:35.722Z INFO request GET /health 200 2ms
+2026-11-11T10:06:36.200Z WARN slow query 1203ms SELECT * FROM events
+2026-11-11T10:06:37.554Z INFO worker heartbeat ok
+2026-11-11T10:06:38.197Z INFO worker heartbeat ok
+2026-11-11T10:06:39.372Z INFO worker heartbeat ok
+2026-11-11T10:06:40.031Z WARN slow query 1203ms SELECT * FROM events
+2026-11-11T10:06:41.253Z INFO worker heartbeat ok
+2026-11-11T10:06:42.041Z INFO worker heartbeat ok
+2026-11-11T10:06:43.035Z INFO worker heartbeat ok
+2026-11-11T10:06:44.064Z INFO worker heartbeat ok
+2026-11-11T10:06:45.263Z INFO request GET /health 200 2ms
+2026-11-11T10:06:46.765Z INFO request GET /health 200 2ms
+2026-11-11T10:06:47.920Z INFO request GET /health 200 2ms
+2026-11-11T10:06:48.371Z INFO worker heartbeat ok
+2026-11-11T10:06:49.343Z INFO request GET /health 200 2ms
+2026-11-11T10:06:50.268Z INFO request GET /health 200 2ms
+2026-11-11T10:06:51.946Z INFO worker heartbeat ok
+2026-11-11T10:06:52.304Z INFO request GET /health 200 2ms
+2026-11-11T10:06:53.738Z INFO request GET /health 200 2ms
+2026-11-11T10:06:54.024Z INFO request GET /health 200 2ms
+2026-11-11T10:06:55.109Z INFO request GET /health 200 2ms
+2026-11-11T10:06:56.732Z WARN slow query 1203ms SELECT * FROM events
+2026-11-11T10:06:57.976Z INFO worker heartbeat ok
+2026-11-11T10:06:58.808Z INFO worker heartbeat ok
+2026-11-11T10:06:59.935Z INFO request GET /health 200 2ms
+2026-11-11T10:07:00.834Z INFO worker heartbeat ok
+2026-11-11T10:07:01.135Z ERROR connection reset by peer
+2026-11-11T10:07:02.187Z ERROR connection reset by peer
+2026-11-11T10:07:03.821Z INFO request GET /health 200 2ms
+2026-11-11T10:07:04.842Z INFO request GET /health 200 2ms
+2026-11-11T10:07:05.621Z INFO request GET /health 200 2ms
+2026-11-11T10:07:06.335Z INFO request GET /health 200 2ms
+2026-11-11T10:07:07.471Z INFO worker heartbeat ok
+2026-11-11T10:07:08.802Z INFO worker heartbeat ok
+2026-11-11T10:07:09.524Z INFO request GET /health 200 2ms
+2026-11-11T10:07:10.401Z INFO request GET /health 200 2ms
+2026-11-11T10:07:11.253Z INFO request GET /health 200 2ms
+2026-11-11T10:07:12.066Z INFO worker heartbeat ok
+2026-11-11T10:07:13.493Z INFO request GET /health 200 2ms
+2026-11-11T10:07:14.164Z INFO worker heartbeat ok
+2026-11-11T10:07:15.904Z INFO worker heartbeat ok
+2026-11-11T10:07:16.073Z INFO request GET /health 200 2ms
+2026-11-11T10:07:17.639Z INFO request GET /health 200 2ms
+2026-11-11T10:07:18.213Z INFO request GET /health 200 2ms
+2026-11-11T10:07:19.431Z INFO request GET /health 200 2ms
+2026-11-11T10:07:20.726Z ERROR connection reset by peer
+2026-11-11T10:07:21.177Z INFO worker heartbeat ok
+2026-11-11T10:07:22.136Z INFO request GET /health 200 2ms
+2026-11-11T10:07:23.471Z INFO worker heartbeat ok
+2026-11-11T10:07:24.765Z INFO request GET /health 200 2ms
+2026-11-11T10:07:25.798Z INFO request GET /health 200 2ms
+2026-11-11T10:07:26.300Z INFO request GET /health 200 2ms
+2026-11-11T10:07:27.580Z INFO request GET /health 200 2ms
+2026-11-11T10:07:28.381Z INFO request GET /health 200 2ms
+2026-11-11T10:07:29.755Z INFO request GET /health 200 2ms
+2026-11-11T10:07:30.203Z INFO request GET /health 200 2ms
+2026-11-11T10:07:31.253Z INFO worker heartbeat ok
+2026-11-11T10:07:32.251Z INFO request GET /health 200 2ms
+2026-11-11T10:07:33.157Z INFO request GET /health 200 2ms
+2026-11-11T10:07:34.905Z INFO request GET /health 200 2ms
+2026-11-11T10:07:35.334Z INFO request GET /health 200 2ms
+2026-11-11T10:07:36.405Z INFO request GET /health 200 2ms
+2026-11-11T10:07:37.251Z INFO request GET /health 200 2ms
+2026-11-11T10:07:38.665Z INFO request GET /health 200 2ms
+2026-11-11T10:07:39.669Z INFO request GET /health 200 2ms
+2026-11-11T10:07:40.037Z INFO worker heartbeat ok
+2026-11-11T10:07:41.004Z INFO request GET /health 200 2ms
+2026-11-11T10:07:42.904Z WARN slow query 1203ms SELECT * FROM events
+2026-11-11T10:07:43.860Z INFO request GET /health 200 2ms
+2026-11-11T10:07:44.936Z INFO worker heartbeat ok
+2026-11-11T10:07:45.041Z INFO worker heartbeat ok
+2026-11-11T10:07:46.238Z INFO request GET /health 200 2ms
+2026-11-11T10:07:47.051Z INFO request GET /health 200 2ms
+2026-11-11T10:07:48.614Z INFO request GET /health 200 2ms
+2026-11-11T10:07:49.952Z INFO request GET /health 200 2ms
+2026-11-11T10:07:50.381Z INFO request GET /health 200 2ms
+2026-11-11T10:07:51.459Z INFO request GET /health 200 2ms
+2026-11-11T10:07:52.793Z INFO request GET /health 200 2ms
+2026-11-11T10:07:53.108Z INFO request GET /health 200 2ms
+2026-11-11T10:07:54.222Z INFO worker heartbeat ok
+2026-11-11T10:07:55.377Z INFO request GET /health 200 2ms
+2026-11-11T10:07:56.144Z INFO worker heartbeat ok
+2026-11-11T10:07:57.208Z INFO request GET /health 200 2ms
+2026-11-11T10:07:58.039Z INFO request GET /health 200 2ms
+2026-11-11T10:07:59.834Z INFO request GET /health 200 2ms
+2026-11-11T10:08:00.838Z INFO request GET /health 200 2ms
+2026-11-11T10:08:01.418Z INFO worker heartbeat ok
+2026-11-11T10:08:02.189Z INFO worker heartbeat ok
+2026-11-11T10:08:03.079Z INFO request GET /health 200 2ms
+2026-11-11T10:08:04.032Z INFO request GET /health 200 2ms
+2026-11-11T10:08:05.561Z ERROR connection reset by peer
+2026-11-11T10:08:06.064Z WARN slow query 1203ms SELECT * FROM events
+2026-11-11T10:08:07.103Z INFO worker heartbeat ok
+2026-11-11T10:08:08.679Z INFO worker heartbeat ok
+2026-11-11T10:08:09.654Z INFO request GET /health 200 2ms
+2026-11-11T10:08:10.668Z INFO request GET /health 200 2ms
+2026-11-11T10:08:11.407Z INFO request GET /health 200 2ms
+2026-11-11T10:08:12.419Z INFO request GET /health 200 2ms
+2026-11-11T10:08:13.683Z INFO request GET /health 200 2ms
+2026-11-11T10:08:14.427Z INFO request GET /health 200 2ms
+2026-11-11T10:08:15.319Z INFO request GET /health 200 2ms
+2026-11-11T10:08:16.424Z INFO worker heartbeat ok
+2026-11-11T10:08:17.018Z INFO worker heartbeat ok
+2026-11-11T10:08:18.659Z INFO worker heartbeat ok
+2026-11-11T10:08:19.400Z INFO request GET /health 200 2ms
+2026-11-11T10:08:20.208Z INFO worker heartbeat ok
+2026-11-11T10:08:21.444Z INFO request GET /health 200 2ms
+2026-11-11T10:08:22.433Z INFO request GET /health 200 2ms
+2026-11-11T10:08:23.840Z INFO request GET /health 200 2ms
+2026-11-11T10:08:24.415Z INFO request GET /health 200 2ms
+2026-11-11T10:08:25.471Z INFO worker heartbeat ok
+2026-11-11T10:08:26.133Z INFO request GET /health 200 2ms
+2026-11-11T10:08:27.052Z INFO request GET /health 200 2ms
+2026-11-11T10:08:28.656Z INFO request GET /health 200 2ms
+2026-11-11T10:08:29.091Z INFO worker heartbeat ok
+2026-11-11T10:08:30.754Z INFO worker heartbeat ok
+2026-11-11T10:08:31.149Z INFO request GET /health 200 2ms
+2026-11-11T10:08:32.290Z INFO worker heartbeat ok
+2026-11-11T10:08:33.533Z INFO request GET /health 200 2ms
+2026-11-11T10:08:34.947Z INFO request GET /health 200 2ms
+2026-11-11T10:08:35.111Z INFO request GET /health 200 2ms
+2026-11-11T10:08:36.502Z INFO worker heartbeat ok
+2026-11-11T10:08:37.308Z INFO request GET /health 200 2ms
+2026-11-11T10:08:38.857Z INFO request GET /health 200 2ms
+2026-11-11T10:08:39.998Z INFO request GET /health 200 2ms
+2026-11-11T10:08:40.322Z WARN slow query 1203ms SELECT * FROM events
+2026-11-11T10:08:41.622Z INFO request GET /health 200 2ms
+2026-11-11T10:08:42.088Z INFO worker heartbeat ok
+2026-11-11T10:08:43.655Z INFO request GET /health 200 2ms
+2026-11-11T10:08:44.635Z INFO request GET /health 200 2ms
+2026-11-11T10:08:45.629Z INFO worker heartbeat ok
+2026-11-11T10:08:46.849Z INFO request GET /health 200 2ms
+2026-11-11T10:08:47.187Z WARN slow query 1203ms SELECT * FROM events
+2026-11-11T10:08:48.042Z INFO request GET /health 200 2ms
+2026-11-11T10:08:49.961Z INFO worker heartbeat ok
+2026-11-11T10:08:50.392Z INFO request GET /health 200 2ms
+2026-11-11T10:08:51.126Z INFO worker heartbeat ok
+2026-11-11T10:08:52.252Z INFO request GET /health 200 2ms
+2026-11-11T10:08:53.042Z INFO request GET /health 200 2ms
+2026-11-11T10:08:54.683Z INFO request GET /health 200 2ms
+2026-11-11T10:08:55.120Z INFO worker heartbeat ok
+2026-11-11T10:08:56.613Z INFO worker heartbeat ok
+2026-11-11T10:08:57.563Z INFO worker heartbeat ok
+2026-11-11T10:08:58.664Z INFO request GET /health 200 2ms
+2026-11-11T10:08:59.315Z INFO worker heartbeat ok
+2026-11-11T10:09:00.435Z INFO request GET /health 200 2ms
+2026-11-11T10:09:01.674Z INFO worker heartbeat ok
+2026-11-11T10:09:02.457Z INFO worker heartbeat ok
+2026-11-11T10:09:03.183Z INFO worker heartbeat ok
+2026-11-11T10:09:04.003Z INFO request GET /health 200 2ms
+2026-11-11T10:09:05.476Z ERROR connection reset by peer
+2026-11-11T10:09:06.457Z INFO request GET /health 200 2ms
+2026-11-11T10:09:07.856Z INFO worker heartbeat ok
+2026-11-11T10:09:08.829Z INFO request GET /health 200 2ms
+2026-11-11T10:09:09.409Z WARN slow query 1203ms SELECT * FROM events
+2026-11-11T10:09:10.068Z INFO request GET /health 200 2ms
+2026-11-11T10:09:11.367Z INFO request GET /health 200 2ms
+2026-11-11T10:09:12.374Z INFO worker heartbeat ok
+2026-11-11T10:09:13.821Z INFO request GET /health 200 2ms
+2026-11-11T10:09:14.516Z INFO worker heartbeat ok
+2026-11-11T10:09:15.041Z INFO request GET /health 200 2ms
+2026-11-11T10:09:16.084Z INFO request GET /health 200 2ms
+2026-11-11T10:09:17.796Z INFO worker heartbeat ok
+2026-11-11T10:09:18.055Z INFO request GET /health 200 2ms
+2026-11-11T10:09:19.668Z INFO worker heartbeat ok
+2026-11-11T10:09:20.026Z INFO request GET /health 200 2ms
+2026-11-11T10:09:21.628Z INFO request GET /health 200 2ms
+2026-11-11T10:09:22.198Z INFO request GET /health 200 2ms
+2026-11-11T10:09:23.906Z INFO request GET /health 200 2ms
+2026-11-11T10:09:24.294Z ERROR connection reset by peer
+2026-11-11T10:09:25.702Z INFO request GET /health 200 2ms
+2026-11-11T10:09:26.067Z INFO request GET /health 200 2ms
+2026-11-11T10:09:27.625Z INFO worker heartbeat ok
+2026-11-11T10:09:28.162Z INFO request GET /health 200 2ms
+2026-11-11T10:09:29.918Z INFO worker heartbeat ok
+2026-11-11T10:09:30.926Z INFO request GET /health 200 2ms
+2026-11-11T10:09:31.147Z INFO worker heartbeat ok
+2026-11-11T10:09:32.514Z INFO request GET /health 200 2ms
+2026-11-11T10:09:33.213Z WARN slow query 1203ms SELECT * FROM events
+2026-11-11T10:09:34.630Z INFO request GET /health 200 2ms
+2026-11-11T10:09:35.326Z INFO request GET /health 200 2ms
+2026-11-11T10:09:36.037Z INFO worker heartbeat ok
+2026-11-11T10:09:37.186Z INFO request GET /health 200 2ms
+2026-11-11T10:09:38.165Z INFO worker heartbeat ok
+2026-11-11T10:09:39.695Z INFO request GET /health 200 2ms
+2026-11-11T10:09:40.916Z INFO worker heartbeat ok
+2026-11-11T10:09:41.172Z INFO worker heartbeat ok
+2026-11-11T10:09:42.117Z INFO request GET /health 200 2ms
+2026-11-11T10:09:43.651Z INFO request GET /health 200 2ms
+2026-11-11T10:09:44.989Z INFO worker heartbeat ok
+2026-11-11T10:09:45.568Z INFO worker heartbeat ok
+2026-11-11T10:09:46.258Z INFO request GET /health 200 2ms
+2026-11-11T10:09:47.755Z INFO worker heartbeat ok
+2026-11-11T10:09:48.271Z INFO worker heartbeat ok
+2026-11-11T10:09:49.377Z INFO worker heartbeat ok
+2026-11-11T10:09:50.368Z INFO request GET /health 200 2ms
+2026-11-11T10:09:51.782Z INFO worker heartbeat ok
+2026-11-11T10:09:52.452Z INFO request GET /health 200 2ms
+2026-11-11T10:09:53.180Z INFO request GET /health 200 2ms
+2026-11-11T10:09:54.303Z INFO request GET /health 200 2ms
+2026-11-11T10:09:55.317Z INFO request GET /health 200 2ms
+2026-11-11T10:09:56.750Z INFO worker heartbeat ok
+2026-11-11T10:09:57.765Z INFO request GET /health 200 2ms
+2026-11-11T10:09:58.226Z INFO request GET /health 200 2ms
+2026-11-11T10:09:59.297Z INFO request GET /health 200 2ms
+2026-11-11T10:10:00.427Z INFO worker heartbeat ok
+2026-11-11T10:10:01.917Z INFO worker heartbeat ok
+2026-11-11T10:10:02.135Z INFO request GET /health 200 2ms
+2026-11-11T10:10:03.232Z ERROR connection reset by peer
+2026-11-11T10:10:04.022Z INFO request GET /health 200 2ms
+2026-11-11T10:10:05.002Z INFO request GET /health 200 2ms
+2026-11-11T10:10:06.311Z INFO worker heartbeat ok
+2026-11-11T10:10:07.535Z INFO request GET /health 200 2ms
+2026-11-11T10:10:08.546Z INFO worker heartbeat ok
+2026-11-11T10:10:09.423Z INFO request GET /health 200 2ms
+2026-11-11T10:10:10.603Z INFO request GET /health 200 2ms
+2026-11-11T10:10:11.209Z INFO request GET /health 200 2ms
+2026-11-11T10:10:12.638Z INFO worker heartbeat ok
+2026-11-11T10:10:13.162Z WARN slow query 1203ms SELECT * FROM events
+2026-11-11T10:10:14.014Z INFO request GET /health 200 2ms
+2026-11-11T10:10:15.724Z INFO request GET /health 200 2ms
+2026-11-11T10:10:16.461Z INFO request GET /health 200 2ms
+2026-11-11T10:10:17.065Z INFO request GET /health 200 2ms
+2026-11-11T10:10:18.892Z INFO request GET /health 200 2ms
+2026-11-11T10:10:19.411Z INFO request GET /health 200 2ms
+2026-11-11T10:10:20.990Z INFO request GET /health 200 2ms
+2026-11-11T10:10:21.057Z INFO request GET /health 200 2ms
+2026-11-11T10:10:22.608Z INFO worker heartbeat ok
+2026-11-11T10:10:23.616Z INFO worker heartbeat ok
+2026-11-11T10:10:24.254Z ERROR connection reset by peer
+2026-11-11T10:10:25.925Z INFO request GET /health 200 2ms
+2026-11-11T10:10:26.045Z INFO request GET /health 200 2ms
+2026-11-11T10:10:27.544Z INFO request GET /health 200 2ms
+2026-11-11T10:10:28.415Z INFO request GET /health 200 2ms
+2026-11-11T10:10:29.243Z INFO request GET /health 200 2ms
+2026-11-11T10:10:30.059Z INFO request GET /health 200 2ms
+2026-11-11T10:10:31.012Z INFO request GET /health 200 2ms
+2026-11-11T10:10:32.145Z INFO request GET /health 200 2ms
+2026-11-11T10:10:33.204Z INFO worker heartbeat ok
+2026-11-11T10:10:34.832Z INFO worker heartbeat ok
+2026-11-11T10:10:35.520Z INFO request GET /health 200 2ms
+2026-11-11T10:10:36.065Z INFO request GET /health 200 2ms
+2026-11-11T10:10:37.640Z INFO request GET /health 200 2ms
+2026-11-11T10:10:38.910Z INFO request GET /health 200 2ms
+2026-11-11T10:10:39.732Z WARN slow query 1203ms SELECT * FROM events
+2026-11-11T10:10:40.384Z INFO request GET /health 200 2ms
+2026-11-11T10:10:41.763Z INFO worker heartbeat ok
+2026-11-11T10:10:42.082Z INFO worker heartbeat ok
+2026-11-11T10:10:43.179Z INFO worker heartbeat ok
+2026-11-11T10:10:44.107Z INFO request GET /health 200 2ms
+2026-11-11T10:10:45.237Z INFO request GET /health 200 2ms
+2026-11-11T10:10:46.126Z INFO request GET /health 200 2ms
+2026-11-11T10:10:47.912Z INFO worker heartbeat ok
+2026-11-11T10:10:48.728Z INFO request GET /health 200 2ms
+2026-11-11T10:10:49.272Z INFO request GET /health 200 2ms
+2026-11-11T10:10:50.702Z INFO worker heartbeat ok
+2026-11-11T10:10:51.302Z INFO request GET /health 200 2ms
+2026-11-11T10:10:52.087Z INFO request GET /health 200 2ms
+2026-11-11T10:10:53.173Z INFO request GET /health 200 2ms
+2026-11-11T10:10:54.926Z INFO request GET /health 200 2ms
+2026-11-11T10:10:55.861Z INFO request GET /health 200 2ms
+2026-11-11T10:10:56.967Z INFO request GET /health 200 2ms
+2026-11-11T10:10:57.764Z INFO request GET /health 200 2ms
+2026-11-11T10:10:58.196Z INFO worker heartbeat ok
+2026-11-11T10:10:59.336Z INFO worker heartbeat ok
+2026-11-11T10:11:00.388Z INFO request GET /health 200 2ms
+2026-11-11T10:11:01.483Z WARN slow query 1203ms SELECT * FROM events
+2026-11-11T10:11:02.878Z INFO request GET /health 200 2ms
+2026-11-11T10:11:03.447Z INFO request GET /health 200 2ms
+2026-11-11T10:11:04.584Z INFO request GET /health 200 2ms
+2026-11-11T10:11:05.808Z INFO request GET /health 200 2ms
+2026-11-11T10:11:06.400Z INFO request GET /health 200 2ms
+2026-11-11T10:11:07.578Z INFO request GET /health 200 2ms
+2026-11-11T10:11:08.148Z INFO request GET /health 200 2ms
+2026-11-11T10:11:09.027Z INFO request GET /health 200 2ms
+2026-11-11T10:11:10.109Z INFO request GET /health 200 2ms
+2026-11-11T10:11:11.353Z INFO request GET /health 200 2ms
+2026-11-11T10:11:12.717Z INFO request GET /health 200 2ms
+2026-11-11T10:11:13.031Z INFO request GET /health 200 2ms
+2026-11-11T10:11:14.141Z INFO request GET /health 200 2ms
+2026-11-11T10:11:15.713Z INFO request GET /health 200 2ms
+2026-11-11T10:11:16.754Z INFO request GET /health 200 2ms
+2026-11-11T10:11:17.067Z INFO request GET /health 200 2ms
+2026-11-11T10:11:18.204Z INFO worker heartbeat ok
+2026-11-11T10:11:19.900Z INFO request GET /health 200 2ms
+2026-11-11T10:11:20.109Z INFO worker heartbeat ok
+2026-11-11T10:11:21.210Z INFO request GET /health 200 2ms
+2026-11-11T10:11:22.114Z INFO request GET /health 200 2ms
+2026-11-11T10:11:23.035Z INFO request GET /health 200 2ms
+2026-11-11T10:11:24.844Z INFO request GET /health 200 2ms
+2026-11-11T10:11:25.488Z INFO request GET /health 200 2ms
+2026-11-11T10:11:26.135Z INFO request GET /health 200 2ms
+2026-11-11T10:11:27.810Z INFO request GET /health 200 2ms
+2026-11-11T10:11:28.301Z INFO request GET /health 200 2ms
+2026-11-11T10:11:29.344Z INFO worker heartbeat ok
+2026-11-11T10:11:30.267Z INFO worker heartbeat ok
+2026-11-11T10:11:31.359Z INFO request GET /health 200 2ms
+2026-11-11T10:11:32.952Z INFO request GET /health 200 2ms
+2026-11-11T10:11:33.049Z INFO request GET /health 200 2ms
+2026-11-11T10:11:34.932Z INFO worker heartbeat ok
+2026-11-11T10:11:35.787Z INFO worker heartbeat ok
+2026-11-11T10:11:36.871Z WARN slow query 1203ms SELECT * FROM events
+2026-11-11T10:11:37.633Z INFO request GET /health 200 2ms
+2026-11-11T10:11:38.807Z INFO request GET /health 200 2ms
+2026-11-11T10:11:39.031Z INFO worker heartbeat ok
+2026-11-11T10:11:40.531Z INFO worker heartbeat ok
+2026-11-11T10:11:41.355Z INFO request GET /health 200 2ms
+2026-11-11T10:11:42.721Z WARN slow query 1203ms SELECT * FROM events
+2026-11-11T10:11:43.550Z INFO request GET /health 200 2ms
+2026-11-11T10:11:44.731Z INFO request GET /health 200 2ms
+2026-11-11T10:11:45.588Z INFO request GET /health 200 2ms
+2026-11-11T10:11:46.174Z INFO request GET /health 200 2ms
+2026-11-11T10:11:47.001Z INFO worker heartbeat ok
+2026-11-11T10:11:48.295Z INFO request GET /health 200 2ms
+2026-11-11T10:11:49.004Z INFO request GET /health 200 2ms
+2026-11-11T10:11:50.502Z INFO worker heartbeat ok
+2026-11-11T10:11:51.503Z INFO request GET /health 200 2ms
+2026-11-11T10:11:52.990Z INFO request GET /health 200 2ms
+2026-11-11T10:11:53.606Z ERROR connection reset by peer
+2026-11-11T10:11:54.980Z INFO worker heartbeat ok
+2026-11-11T10:11:55.591Z INFO request GET /health 200 2ms
+2026-11-11T10:11:56.290Z INFO request GET /health 200 2ms
+2026-11-11T10:11:57.960Z INFO request GET /health 200 2ms
+2026-11-11T10:11:58.510Z INFO request GET /health 200 2ms
+2026-11-11T10:11:59.112Z INFO request GET /health 200 2ms
+2026-11-11T10:12:00.502Z INFO request GET /health 200 2ms
+2026-11-11T10:12:01.643Z INFO request GET /health 200 2ms
+2026-11-11T10:12:02.364Z INFO worker heartbeat ok
+2026-11-11T10:12:03.410Z INFO request GET /health 200 2ms
+2026-11-11T10:12:04.913Z INFO worker heartbeat ok
+2026-11-11T10:12:05.432Z INFO request GET /health 200 2ms
+2026-11-11T10:12:06.380Z INFO request GET /health 200 2ms
+2026-11-11T10:12:07.310Z INFO request GET /health 200 2ms
+2026-11-11T10:12:08.438Z INFO request GET /health 200 2ms
+2026-11-11T10:12:09.388Z INFO request GET /health 200 2ms
+2026-11-11T10:12:10.966Z INFO request GET /health 200 2ms
+2026-11-11T10:12:11.129Z INFO worker heartbeat ok
+2026-11-11T10:12:12.356Z INFO request GET /health 200 2ms
+2026-11-11T10:12:13.534Z INFO worker heartbeat ok
+2026-11-11T10:12:14.888Z INFO request GET /health 200 2ms
+2026-11-11T10:12:15.677Z INFO worker heartbeat ok
+2026-11-11T10:12:16.173Z INFO worker heartbeat ok
+2026-11-11T10:12:17.449Z INFO worker heartbeat ok
+2026-11-11T10:12:18.593Z INFO request GET /health 200 2ms
+2026-11-11T10:12:19.129Z INFO request GET /health 200 2ms
+2026-11-11T10:12:20.473Z INFO worker heartbeat ok
+2026-11-11T10:12:21.519Z INFO request GET /health 200 2ms
+2026-11-11T10:12:22.273Z INFO request GET /health 200 2ms
+2026-11-11T10:12:23.772Z INFO request GET /health 200 2ms
+2026-11-11T10:12:24.740Z INFO request GET /health 200 2ms
+2026-11-11T10:12:25.998Z INFO request GET /health 200 2ms
+2026-11-11T10:12:26.740Z INFO request GET /health 200 2ms
+2026-11-11T10:12:27.617Z INFO worker heartbeat ok
+2026-11-11T10:12:28.164Z INFO worker heartbeat ok
+2026-11-11T10:12:29.335Z INFO request GET /health 200 2ms
+2026-11-11T10:12:30.264Z INFO request GET /health 200 2ms
+2026-11-11T10:12:31.168Z INFO request GET /health 200 2ms
+2026-11-11T10:12:32.200Z INFO request GET /health 200 2ms
+2026-11-11T10:12:33.154Z INFO worker heartbeat ok
+2026-11-11T10:12:34.813Z INFO request GET /health 200 2ms
+2026-11-11T10:12:35.750Z INFO request GET /health 200 2ms
+2026-11-11T10:12:36.445Z INFO request GET /health 200 2ms
+2026-11-11T10:12:37.200Z INFO request GET /health 200 2ms
+2026-11-11T10:12:38.653Z INFO request GET /health 200 2ms
+2026-11-11T10:12:39.287Z INFO request GET /health 200 2ms
+2026-11-11T10:12:40.906Z INFO request GET /health 200 2ms
+2026-11-11T10:12:41.475Z INFO worker heartbeat ok
+2026-11-11T10:12:42.012Z INFO request GET /health 200 2ms
+2026-11-11T10:12:43.874Z INFO worker heartbeat ok
+2026-11-11T10:12:44.710Z INFO worker heartbeat ok
+2026-11-11T10:12:45.512Z INFO request GET /health 200 2ms
+2026-11-11T10:12:46.474Z INFO request GET /health 200 2ms
+2026-11-11T10:12:47.145Z INFO request GET /health 200 2ms
+2026-11-11T10:12:48.618Z INFO request GET /health 200 2ms
+2026-11-11T10:12:49.005Z INFO worker heartbeat ok
+2026-11-11T10:12:50.929Z INFO request GET /health 200 2ms
+2026-11-11T10:12:51.717Z INFO worker heartbeat ok
+2026-11-11T10:12:52.866Z INFO worker heartbeat ok
+2026-11-11T10:12:53.683Z INFO request GET /health 200 2ms
+2026-11-11T10:12:54.695Z INFO request GET /health 200 2ms
+2026-11-11T10:12:55.656Z INFO request GET /health 200 2ms
+2026-11-11T10:12:56.464Z INFO request GET /health 200 2ms
+2026-11-11T10:12:57.320Z INFO worker heartbeat ok
+2026-11-11T10:12:58.643Z INFO request GET /health 200 2ms
+2026-11-11T10:12:59.916Z INFO request GET /health 200 2ms
+2026-11-11T10:13:00.248Z INFO worker heartbeat ok
+2026-11-11T10:13:01.730Z INFO worker heartbeat ok
+2026-11-11T10:13:02.256Z INFO request GET /health 200 2ms
+2026-11-11T10:13:03.494Z INFO worker heartbeat ok
+2026-11-11T10:13:04.020Z INFO worker heartbeat ok
+2026-11-11T10:13:05.530Z INFO worker heartbeat ok
+2026-11-11T10:13:06.915Z INFO request GET /health 200 2ms
+2026-11-11T10:13:07.796Z INFO worker heartbeat ok
+2026-11-11T10:13:08.398Z INFO request GET /health 200 2ms
+2026-11-11T10:13:09.929Z ERROR connection reset by peer
+2026-11-11T10:13:10.039Z INFO request GET /health 200 2ms
+2026-11-11T10:13:11.556Z INFO request GET /health 200 2ms
+2026-11-11T10:13:12.164Z INFO request GET /health 200 2ms
+2026-11-11T10:13:13.531Z INFO request GET /health 200 2ms
+2026-11-11T10:13:14.103Z INFO worker heartbeat ok
+2026-11-11T10:13:15.554Z INFO worker heartbeat ok
+2026-11-11T10:13:16.734Z INFO request GET /health 200 2ms
+2026-11-11T10:13:17.524Z WARN slow query 1203ms SELECT * FROM events
+2026-11-11T10:13:18.654Z INFO request GET /health 200 2ms
+2026-11-11T10:13:19.534Z INFO worker heartbeat ok
+2026-11-11T10:13:20.420Z INFO worker heartbeat ok
+2026-11-11T10:13:21.215Z INFO worker heartbeat ok
+2026-11-11T10:13:22.401Z INFO request GET /health 200 2ms
+2026-11-11T10:13:23.746Z INFO request GET /health 200 2ms
+2026-11-11T10:13:24.652Z INFO worker heartbeat ok
+2026-11-11T10:13:25.258Z INFO request GET /health 200 2ms
+2026-11-11T10:13:26.391Z INFO request GET /health 200 2ms
+2026-11-11T10:13:27.062Z INFO worker heartbeat ok
+2026-11-11T10:13:28.076Z INFO request GET /health 200 2ms
+2026-11-11T10:13:29.937Z INFO worker heartbeat ok
+2026-11-11T10:13:30.643Z INFO worker heartbeat ok
+2026-11-11T10:13:31.594Z INFO worker heartbeat ok
+2026-11-11T10:13:32.111Z INFO request GET /health 200 2ms
+2026-11-11T10:13:33.310Z INFO request GET /health 200 2ms
+2026-11-11T10:13:34.962Z INFO worker heartbeat ok
+2026-11-11T10:13:35.820Z INFO request GET /health 200 2ms
+2026-11-11T10:13:36.473Z INFO worker heartbeat ok
+2026-11-11T10:13:37.168Z INFO request GET /health 200 2ms
+2026-11-11T10:13:38.951Z INFO request GET /health 200 2ms
+2026-11-11T10:13:39.829Z INFO request GET /health 200 2ms
+2026-11-11T10:13:40.480Z INFO request GET /health 200 2ms
+2026-11-11T10:13:41.834Z INFO request GET /health 200 2ms
+2026-11-11T10:13:42.361Z INFO request GET /health 200 2ms
+2026-11-11T10:13:43.479Z INFO worker heartbeat ok
+2026-11-11T10:13:44.778Z INFO request GET /health 200 2ms
+2026-11-11T10:13:45.798Z INFO request GET /health 200 2ms
+2026-11-11T10:13:46.363Z WARN slow query 1203ms SELECT * FROM events
+2026-11-11T10:13:47.273Z INFO request GET /health 200 2ms
+2026-11-11T10:13:48.703Z INFO worker heartbeat ok
+2026-11-11T10:13:49.436Z INFO request GET /health 200 2ms
+2026-11-11T10:13:50.493Z INFO request GET /health 200 2ms
+2026-11-11T10:13:51.824Z INFO request GET /health 200 2ms
+2026-11-11T10:13:52.366Z INFO request GET /health 200 2ms
+2026-11-11T10:13:53.670Z INFO request GET /health 200 2ms
+2026-11-11T10:13:54.328Z INFO request GET /health 200 2ms
+2026-11-11T10:13:55.496Z WARN slow query 1203ms SELECT * FROM events
+2026-11-11T10:13:56.638Z INFO worker heartbeat ok
+2026-11-11T10:13:57.675Z INFO request GET /health 200 2ms
+2026-11-11T10:13:58.156Z INFO worker heartbeat ok
+2026-11-11T10:13:59.874Z INFO request GET /health 200 2ms
+2026-11-11T10:14:00.058Z INFO worker heartbeat ok
+2026-11-11T10:14:01.847Z INFO request GET /health 200 2ms
+2026-11-11T10:14:02.802Z INFO worker heartbeat ok
+2026-11-11T10:14:03.543Z INFO request GET /health 200 2ms
+2026-11-11T10:14:04.648Z INFO worker heartbeat ok
+2026-11-11T10:14:05.673Z INFO request GET /health 200 2ms
+2026-11-11T10:14:06.214Z INFO request GET /health 200 2ms
+2026-11-11T10:14:07.671Z INFO request GET /health 200 2ms
+2026-11-11T10:14:08.256Z INFO request GET /health 200 2ms
+2026-11-11T10:14:09.592Z INFO request GET /health 200 2ms
+2026-11-11T10:14:10.874Z INFO request GET /health 200 2ms
+2026-11-11T10:14:11.190Z INFO request GET /health 200 2ms
+2026-11-11T10:14:12.354Z INFO worker heartbeat ok
+2026-11-11T10:14:13.213Z INFO request GET /health 200 2ms
+2026-11-11T10:14:14.810Z INFO worker heartbeat ok
+2026-11-11T10:14:15.624Z INFO request GET /health 200 2ms
+2026-11-11T10:14:16.684Z INFO request GET /health 200 2ms
+2026-11-11T10:14:17.202Z INFO request GET /health 200 2ms
+2026-11-11T10:14:18.709Z ERROR connection reset by peer
+2026-11-11T10:14:19.543Z INFO request GET /health 200 2ms
+2026-11-11T10:14:20.759Z INFO request GET /health 200 2ms
+2026-11-11T10:14:21.687Z INFO worker heartbeat ok
+2026-11-11T10:14:22.568Z INFO request GET /health 200 2ms
+2026-11-11T10:14:23.270Z INFO request GET /health 200 2ms
+2026-11-11T10:14:24.239Z INFO worker heartbeat ok
+2026-11-11T10:14:25.484Z INFO request GET /health 200 2ms
+2026-11-11T10:14:26.570Z ERROR connection reset by peer
+2026-11-11T10:14:27.495Z INFO request GET /health 200 2ms
+2026-11-11T10:14:28.927Z INFO worker heartbeat ok
+2026-11-11T10:14:29.717Z INFO request GET /health 200 2ms
+2026-11-11T10:14:30.252Z ERROR connection reset by peer
+2026-11-11T10:14:31.168Z ERROR connection reset by peer
+2026-11-11T10:14:32.164Z INFO request GET /health 200 2ms
+2026-11-11T10:14:33.479Z INFO worker heartbeat ok
+2026-11-11T10:14:34.681Z ERROR connection reset by peer
+2026-11-11T10:14:35.860Z INFO request GET /health 200 2ms
+2026-11-11T10:14:36.383Z INFO worker heartbeat ok
+2026-11-11T10:14:37.428Z INFO worker heartbeat ok
+2026-11-11T10:14:38.184Z INFO request GET /health 200 2ms
+2026-11-11T10:14:39.651Z INFO worker heartbeat ok
+2026-11-11T10:14:40.021Z INFO request GET /health 200 2ms
+2026-11-11T10:14:41.698Z INFO request GET /health 200 2ms
+2026-11-11T10:14:42.828Z INFO worker heartbeat ok
+2026-11-11T10:14:43.522Z INFO request GET /health 200 2ms
+2026-11-11T10:14:44.496Z WARN slow query 1203ms SELECT * FROM events
+2026-11-11T10:14:45.034Z INFO request GET /health 200 2ms
+2026-11-11T10:14:46.735Z INFO request GET /health 200 2ms
+2026-11-11T10:14:47.640Z INFO worker heartbeat ok
+2026-11-11T10:14:48.346Z INFO request GET /health 200 2ms
+2026-11-11T10:14:49.882Z INFO request GET /health 200 2ms
+2026-11-11T10:14:50.349Z INFO worker heartbeat ok
+2026-11-11T10:14:51.797Z WARN slow query 1203ms SELECT * FROM events
+2026-11-11T10:14:52.290Z INFO request GET /health 200 2ms
+2026-11-11T10:14:53.350Z INFO worker heartbeat ok
+2026-11-11T10:14:54.257Z INFO worker heartbeat ok
+2026-11-11T10:14:55.846Z INFO request GET /health 200 2ms
+2026-11-11T10:14:56.299Z INFO request GET /health 200 2ms
+2026-11-11T10:14:57.847Z INFO worker heartbeat ok
+2026-11-11T10:14:58.413Z ERROR connection reset by peer
+2026-11-11T10:14:59.515Z INFO worker heartbeat ok
